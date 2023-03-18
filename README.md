@@ -1,59 +1,33 @@
-# Software Studio 2022 Spring Assignment 2
-
-### Scoring
-
-|**Basic Component**|**Score**|**Check**|
-|:-:|:-:|:-:|
-|Membership Mechanism|10%|Y|
-|Complete Game Process|5%|Y|
-|Basic Rules|45%|Y|
-|Animations|10%|Y|
-|Sound Effects|10%|Y|
-|UI|10%|Y|
-
-|**Advanced Component**|**Score**|**Check**|
-|:-:|:-:|:-:|
-|Leaderboard|5%|N|
-|Offline multi-player game|5%|N|
-|Online multi-player game|15%|N|
-|Others [name of functions]|1-15%|N|
-
----
-
 ## Basic Components Description : 
 1. World map :![](https://i.imgur.com/OZUnKG8.png)
- ¥kÃä¨â­Óbutton¥i¥H¤Á´«map¡Astage2­nstage1³q¹L¤§«á¤~¯àÂI¿ï
+ å³é‚Šå…©å€‹buttonå¯ä»¥åˆ‡æ›mapï¼Œstage2è¦stage1é€šéä¹‹å¾Œæ‰èƒ½é»é¸
  
 2. Player :
 ![](https://i.imgur.com/TJjQkSZ.png)
-A¡BDÁä±±¨î¥ª¥k¡A
+Aã€Déµæ§åˆ¶å·¦å³ï¼Œ
 
 3. Enemies : 
 ![](https://i.imgur.com/ND97TE3.png)
-enemy1·|±q¤ôºŞ¤º¤W¤U²¾°Ê
+enemy1æœƒå¾æ°´ç®¡å…§ä¸Šä¸‹ç§»å‹•
 ![](https://i.imgur.com/5Jvh2rR.png)
-enemy2·|¨Ó¦^¸õÅD
+enemy2æœƒä¾†å›è·³èº
 
 4. Question Blocks :
 ![](https://i.imgur.com/w2y6JCN.png)![](https://i.imgur.com/6wYGoqs.png)
-¤j¤è¶ô¼²À»·|²£¥ÍÄ¨Û£¡Aplayer¸IÄ²Ä¨Û£·|ÅÜ¤j¨Ã¼W¥[®É¶¡
-¤p¤è¶ô¼²À»·|²£¥Íª÷¹ô¡A¼W¥[¤À¼Æ
+å¤§æ–¹å¡Šæ’æ“Šæœƒç”¢ç”Ÿè˜‘è‡ï¼Œplayerç¢°è§¸è˜‘è‡æœƒè®Šå¤§ä¸¦å¢åŠ æ™‚é–“
+å°æ–¹å¡Šæ’æ“Šæœƒç”¢ç”Ÿé‡‘å¹£ï¼Œå¢åŠ åˆ†æ•¸
 
-5. Animations : player¸õÅD¡B¦º¤`¡B©b¶]¡Benemy1¦æ°Ê¡Benemy2¦æ°Ê¡Benemy2¦º¤`¡B°İ¸¹½c¤l³£¦³Animation¡A
+5. Animations : playerè·³èºã€æ­»äº¡ã€å¥”è·‘ã€enemy1è¡Œå‹•ã€enemy2è¡Œå‹•ã€enemy2æ­»äº¡ã€å•è™Ÿç®±å­éƒ½æœ‰Animationï¼Œ
 
 6. Sound effects : 
-    BGM : µn¤J¡B¿ï¾Üstage¡B¹CÀ¸
-    Sound effects  : Player¸õÅD¡B¦º¤`¡B¦YÄ¨Û£ÅÜ¤jÅÜ¤p¡B³Ó§Q¡Benemy1¡B2¦º¤`¡B¼²À»¨âºØ¤£¦P¤è¶ô
+    BGM : ç™»å…¥ã€é¸æ“‡stageã€éŠæˆ²
+    Sound effects  : Playerè·³èºã€æ­»äº¡ã€åƒè˜‘è‡è®Šå¤§è®Šå°ã€å‹åˆ©ã€enemy1ã€2æ­»äº¡ã€æ’æ“Šå…©ç¨®ä¸åŒæ–¹å¡Š
     
 7. UI : 
 ![](https://i.imgur.com/OZUnKG8.png)
-¦bstage¿ï¾Ü¥ª°¼¥i¥H¬İ¨ì·í«eª±®aªº¦W¦r¡B³Ì°ª¤À¼Æ¡B¥i¥Î¥Í©R
+åœ¨stageé¸æ“‡å·¦å´å¯ä»¥çœ‹åˆ°ç•¶å‰ç©å®¶çš„åå­—ã€æœ€é«˜åˆ†æ•¸ã€å¯ç”¨ç”Ÿå‘½
 ![](https://i.imgur.com/JJVAa10.png)
-¶i¤J¹CÀ¸¤]¥i¥H¦b¤W¤è¬İ¨ì®É¶¡¡B¥Í©R¡B·í«e¤À¼Æ
-
-## Advanced Component Description : 
-
-Describe your advanced function and how to use it.
+é€²å…¥éŠæˆ²ä¹Ÿå¯ä»¥åœ¨ä¸Šæ–¹çœ‹åˆ°æ™‚é–“ã€ç”Ÿå‘½ã€ç•¶å‰åˆ†æ•¸
 
 # Firebase page link
 [mario-7695c.web.app](https://mario-7695c.web.app/)
