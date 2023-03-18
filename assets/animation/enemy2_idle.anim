@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemy2_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a545e58f-ada2-4efc-9cfc-3ece43085b56"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "2519befc-557a-4485-8cbe-9f097a286b86"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

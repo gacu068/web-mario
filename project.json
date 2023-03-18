@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.8",
+  "name": "Mario",
+  "id": "60630c8e-f30c-4878-8485-111b03ca5ab7",
+  "isNew": false
+}
